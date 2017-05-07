@@ -4,8 +4,8 @@ A FastCGI server that allows you to run node/javascript server-side
 It's currently in very early stages and loosely inspired by [CGI-Node](https://github.com/UeiRicho/cgi-node)
 
 ## Dependencies
-[node-fastcgi](https://github.com/fbbdev/node-fastcgi)
-[multiparty](https://github.com/pillarjs/multiparty)
+* [node-fastcgi](https://github.com/fbbdev/node-fastcgi)
+* [multiparty](https://github.com/pillarjs/multiparty)
 
 ## Usage
 Install dependencies using `npm install` or `yarn add` then start the server using `npm start` or `yarn start`
